@@ -6,3 +6,4 @@ test if i can access other stocks on the market (index funds SP something someth
 create better trading alogirithm
 Make by SL and TP wider
 incorpate randomness to num of units
+play with the bounds of RSI
